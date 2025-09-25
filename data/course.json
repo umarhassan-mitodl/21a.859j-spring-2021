@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "legacy_uid": "1bc0678f-c666-b580-cee9-c91c8584b3e1",
+  "instructors": {
+    "content": [
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c5354abe-7288-5ab8-0039-43dc39c484a5",
+    "website": "21a-859j-social-theory-and-analysis-spring-2021"
+  },
+  "course_title": "Social Theory and Analysis",
+  "course_description": "This subject presents a survey of social theory from the 17th century to the present. It focuses on the historical contexts out of which theory arises, the utility and limitations of older theories for present conditions, and the creation of new theory out of contemporary circumstances.",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.250J",
+  "primary_course_number": "21A.859J",
+  "course_image_thumbnail": {
+    "content": "dc3c4280-b82a-44ef-fa87-ee8b5321539f",
+    "website": "21a-859j-social-theory-and-analysis-spring-2021"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "88ec1132-04b8-4295-966a-87cc1e882898",
+  "site_short_id": "21a.859j-spring-2021",
+  "site_url_path": "courses/21a-859j-social-theory-and-analysis-spring-2021",
+  "title": "Course Metadata"
+}
