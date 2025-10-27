@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course description, requirements, grading policy,
   and a topics calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -39,11 +37,11 @@ Class participation, discussion leading, and response papers each count for one-
 The Fine Print
 --------------
 
-MIT’s [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) offers free consultation and online help to MIT students at any stage of the writing process. Get help overcoming writer’s block and formulating an argument, and with questions on grammar and style (Writing Center consultants do not proofread, but do offer help with grammar and beyond).
+MIT’s {{% resource_link "0db21b14-f6cc-4b91-86ec-6cf2b048251e" "Writing and Communication Center" %}} offers free consultation and online help to MIT students at any stage of the writing process. Get help overcoming writer’s block and formulating an argument, and with questions on grammar and style (Writing Center consultants do not proofread, but do offer help with grammar and beyond).
 
-MIT’s [Institute Community and Equity Office (ICEO)](http://diversity.mit.edu/) is dedicated to cultivating an environment that enacts “MIT’s shared values of excellence, meritocracy, openness, integrity, and mutual respect.” We will in this class observe and respect one another’s voices and points of view, taking collective responsibility for making sure everyone feels welcome and heard.
+MIT’s {{% resource_link "6cc1978c-1095-4d36-ba5c-acfc01300869" "Institute Community and Equity Office (ICEO)" %}} is dedicated to cultivating an environment that enacts “MIT’s shared values of excellence, meritocracy, openness, integrity, and mutual respect.” We will in this class observe and respect one another’s voices and points of view, taking collective responsibility for making sure everyone feels welcome and heard.
 
-Students are expected to adhere to MIT’s guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the Office of Student Citizenship or Committee on Discipline. If you have questions about what qualifies as plagiarism check out [Academic Integrity at MIT](http://integrity.mit.edu/).
+Students are expected to adhere to MIT’s guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the Office of Student Citizenship or Committee on Discipline. If you have questions about what qualifies as plagiarism check out {{% resource_link "2e6e7713-6368-4909-ad8e-49e9f539796c" "Academic Integrity at MIT" %}}.
 
 Don’t panic. I will provide you with guidance about how to approach each session—what’s most important, how each session’s reading builds on what has come before. Start with a bird’s eye view of a session’s readings and then, as you read each piece, ask yourself what questions and debates it speaks to (who or what is the piece arguing against? why?), how it is structured (as a chronology, a close reading, a case study, a manifesto?), what claims it makes, and what evidence it employs.
 
